@@ -2,7 +2,7 @@
   "rewrites": [{ "source": "/(.*)", "destination": "/api/index" }],
   "functions": {
     "api/index.py": {
-      "includeFiles": "assets/**"
+      "includeFiles": "{assets/**,app.py}"
     }
   }
 }
