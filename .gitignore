@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+dist/
+.trae/
+token.txt
+.repo_url
